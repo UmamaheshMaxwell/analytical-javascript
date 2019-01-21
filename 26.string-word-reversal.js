@@ -14,7 +14,7 @@ console.info(
     .join(""))
 
 /*
-Second Method: without using in-built functions
+Second Method: without using reverse function
 */
 
 var str = "this is swathi"
